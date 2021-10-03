@@ -13,6 +13,20 @@
 		E264C7A82706455600196282 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7932706455300196282 /* ContentView.swift */; };
 		E264C7A92706455600196282 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E264C7942706455600196282 /* Assets.xcassets */; };
 		E264C7AA2706455600196282 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E264C7942706455600196282 /* Assets.xcassets */; };
+		E264C7B42706471200196282 /* BLEManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7B32706471200196282 /* BLEManager.swift */; };
+		E264C7B52706471200196282 /* BLEManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7B32706471200196282 /* BLEManager.swift */; };
+		E264C7B72707D79100196282 /* StockModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7B62707D78E00196282 /* StockModels.swift */; };
+		E264C7B82707D79200196282 /* StockModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7B62707D78E00196282 /* StockModels.swift */; };
+		E264C7BA2707D7AB00196282 /* Stocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7B92707D7AB00196282 /* Stocks.swift */; };
+		E264C7BB2707D7AB00196282 /* Stocks.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7B92707D7AB00196282 /* Stocks.swift */; };
+		E264C7BD2707D8FC00196282 /* LineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7BC2707D8FC00196282 /* LineView.swift */; };
+		E264C7BE2707D8FC00196282 /* LineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7BC2707D8FC00196282 /* LineView.swift */; };
+		E264C7C02707D91E00196282 /* Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7BF2707D91E00196282 /* Line.swift */; };
+		E264C7C12707D91E00196282 /* Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7BF2707D91E00196282 /* Line.swift */; };
+		E264C7C327088BAE00196282 /* CurvedText.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7C227088BAD00196282 /* CurvedText.swift */; };
+		E264C7C427088BAF00196282 /* CurvedText.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7C227088BAD00196282 /* CurvedText.swift */; };
+		E264C7C6270948F600196282 /* SensorTileReverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7C5270948F500196282 /* SensorTileReverse.swift */; };
+		E264C7C7270948F600196282 /* SensorTileReverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = E264C7C5270948F500196282 /* SensorTileReverse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +38,13 @@
 		E264C7A12706455600196282 /* BlueSea.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlueSea.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E264C7A32706455600196282 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E264C7A42706455600196282 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		E264C7B32706471200196282 /* BLEManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BLEManager.swift; sourceTree = "<group>"; };
+		E264C7B62707D78E00196282 /* StockModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockModels.swift; sourceTree = "<group>"; };
+		E264C7B92707D7AB00196282 /* Stocks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stocks.swift; sourceTree = "<group>"; };
+		E264C7BC2707D8FC00196282 /* LineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineView.swift; sourceTree = "<group>"; };
+		E264C7BF2707D91E00196282 /* Line.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Line.swift; sourceTree = "<group>"; };
+		E264C7C227088BAD00196282 /* CurvedText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvedText.swift; sourceTree = "<group>"; };
+		E264C7C5270948F500196282 /* SensorTileReverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SensorTileReverse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +81,13 @@
 				E264C7922706455300196282 /* BlueSeaApp.swift */,
 				E264C7932706455300196282 /* ContentView.swift */,
 				E264C7942706455600196282 /* Assets.xcassets */,
+				E264C7B32706471200196282 /* BLEManager.swift */,
+				E264C7B62707D78E00196282 /* StockModels.swift */,
+				E264C7B92707D7AB00196282 /* Stocks.swift */,
+				E264C7BC2707D8FC00196282 /* LineView.swift */,
+				E264C7BF2707D91E00196282 /* Line.swift */,
+				E264C7C227088BAD00196282 /* CurvedText.swift */,
+				E264C7C5270948F500196282 /* SensorTileReverse.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -187,8 +215,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E264C7B72707D79100196282 /* StockModels.swift in Sources */,
+				E264C7C327088BAE00196282 /* CurvedText.swift in Sources */,
 				E264C7A72706455600196282 /* ContentView.swift in Sources */,
+				E264C7BD2707D8FC00196282 /* LineView.swift in Sources */,
+				E264C7B42706471200196282 /* BLEManager.swift in Sources */,
 				E264C7A52706455600196282 /* BlueSeaApp.swift in Sources */,
+				E264C7C6270948F600196282 /* SensorTileReverse.swift in Sources */,
+				E264C7C02707D91E00196282 /* Line.swift in Sources */,
+				E264C7BA2707D7AB00196282 /* Stocks.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,8 +231,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E264C7B82707D79200196282 /* StockModels.swift in Sources */,
+				E264C7C427088BAF00196282 /* CurvedText.swift in Sources */,
 				E264C7A82706455600196282 /* ContentView.swift in Sources */,
+				E264C7BE2707D8FC00196282 /* LineView.swift in Sources */,
+				E264C7B52706471200196282 /* BLEManager.swift in Sources */,
 				E264C7A62706455600196282 /* BlueSeaApp.swift in Sources */,
+				E264C7C7270948F600196282 /* SensorTileReverse.swift in Sources */,
+				E264C7C12707D91E00196282 /* Line.swift in Sources */,
+				E264C7BB2707D7AB00196282 /* Stocks.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
